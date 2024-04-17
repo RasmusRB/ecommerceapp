@@ -1,0 +1,9 @@
+.navbar--links {
+  text-decoration: none;
+  color: #ccc;
+}
+
+.navbar--links:hover {
+  text-decoration: none;
+  color: white;
+}
